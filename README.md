@@ -13,3 +13,6 @@ DinazoruBulma
 Colab Kodu :
 
 https://colab.research.google.com/gist/ferate/ad22a0b9e2f3dc180d4caa5ca7218c63/dinazorubul.ipynb
+
+
+Test Sonucu Elde Edilen Resimlere Ulaşmak İçin :  https://drive.google.com/drive/folders/17h_iygjVKiUwqw-XjkT-b8S-67du100r?usp=sharing
